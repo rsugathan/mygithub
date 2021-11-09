@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15052" started-at="2021-11-06T08:06:43Z" finished-at="2021-11-06T08:06:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15052" started-at="2021-11-06T08:06:43Z" finished-at="2021-11-06T08:06:58Z">
+      <class name="Automationpractice.Automationpractice.practice">
+        <test-method status="PASS" signature="openurl()[pri:1, instance:Automationpractice.Automationpractice.practice@5b275dab]" name="openurl" duration-ms="13475" started-at="2021-11-06T08:06:43Z" finished-at="2021-11-06T08:06:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method status="PASS" signature="clickRadiobutton()[pri:2, instance:Automationpractice.Automationpractice.practice@5b275dab]" name="clickRadiobutton" duration-ms="205" started-at="2021-11-06T08:06:57Z" finished-at="2021-11-06T08:06:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickRadiobutton -->
+        <test-method status="PASS" signature="autoSuggestionDropdown()[pri:3, instance:Automationpractice.Automationpractice.practice@5b275dab]" name="autoSuggestionDropdown" duration-ms="1319" started-at="2021-11-06T08:06:57Z" finished-at="2021-11-06T08:06:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autoSuggestionDropdown -->
+      </class> <!-- Automationpractice.Automationpractice.practice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
